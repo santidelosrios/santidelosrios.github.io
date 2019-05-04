@@ -1761,6 +1761,9 @@ header .logo a {
 	#resume .timeline-header, #resume .timeline-content {
 		padding-left: 7rem;
 	}
+	.porcentage-name {
+		display: none;
+	}
 }
 @media only screen and (max-width:480px) {
 	#resume .resume-header h2 {

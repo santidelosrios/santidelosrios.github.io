@@ -1489,7 +1489,7 @@ header .logo a {
  *
  * -------------------------------------------------------------------
  */
-#about {
+#about { 
 	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 15rem;
@@ -1507,7 +1507,7 @@ header .logo a {
 	height: 9rem;
 	width: 9rem;
 	border-radius: 50%;
-	margin: .9rem 0 0 0;
+	margin: 0 0 0 0;
 	float: left;
 }
 .intro-info .lead {
